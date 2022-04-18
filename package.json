@@ -1,6 +1,6 @@
 {
   "name": "game",
-  "homepage": "http://rdkiran.github.io/react-wordle",
+  "homepage": "https://rdkiran.github.io/react-wordle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
